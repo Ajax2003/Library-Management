@@ -180,7 +180,7 @@
         <div class ="content">
             <img src ="/images/logo.png" class="logo">
             <div class ="text-welcome">
-                <h2>Welcome! <br> <span>To Our Library.</span></h2>
+                <h2>Welcome! <br> <span>ALEX</span></h2>
                 <p>Welcome to the world of endless knowledge at your fingertips!  We're excited to introduce you to our user-friendly library website, your one-stop shop for borrowing books. No more heavy backpacks or crowded shelves – browse our extensive online catalog from the comfort of your dorm room or favorite study spot. Find the perfect book by title, author, or even by genre, and see if it's available in real-time.
                 Dive into the exciting world of literature and get ready to unlock a universe of stories – your borrowing adventure starts now!
                  </p>
